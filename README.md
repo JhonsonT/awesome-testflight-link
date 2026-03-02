@@ -24,9 +24,9 @@ Collect Public Testflight app URL's (iOS/iPad OS/macOS), feel free to create a i
 ## iOS App List
 
 <details open>
-<summary><strong>Available (169 apps)</strong> - Apps currently accepting new testers</summary>
+<summary><strong>Available (168 apps)</strong> - Apps currently accepting new testers</summary>
 
-_✅ These 169 apps are currently accepting new testers! Click the links to join._
+_✅ These 168 apps are currently accepting new testers! Click the links to join._
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -182,7 +182,6 @@ _✅ These 169 apps are currently accepting new testers! Click the links to join
 | 抖音 | [https://testflight.apple.com/join/Hm0miNz8](https://testflight.apple.com/join/Hm0miNz8) | Y | 2026-02-25 |
 | 搜狗输入法 | [https://testflight.apple.com/join/lSZdpEPH](https://testflight.apple.com/join/lSZdpEPH) | Y | 2025-12-22 |
 | 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2025-12-22 |
-| 爱奇艺 | [https://testflight.apple.com/join/alLbf0ju](https://testflight.apple.com/join/alLbf0ju) | Y | 2026-02-25 |
 | 百度输入法 | [https://testflight.apple.com/join/tZIfgySI](https://testflight.apple.com/join/tZIfgySI) | Y | 2025-12-22 |
 | 网易爆米花 | [https://testflight.apple.com/join/sIj5iOoj](https://testflight.apple.com/join/sIj5iOoj) | Y | 2025-12-22 |
 | 西瓜视频 | [https://testflight.apple.com/join/ZkSx6V4m](https://testflight.apple.com/join/ZkSx6V4m) | Y | 2026-01-30 |
@@ -286,7 +285,7 @@ _⚠️ These 73 apps have reached their tester limit. Try checking back later._
 </details>
 
 <details >
-<summary><strong>No (566 apps)</strong> - Apps not currently accepting testers</summary>
+<summary><strong>No (567 apps)</strong> - Apps not currently accepting testers</summary>
 
 | Name | TestFlight Link | Status | Last Updated |
 | --- | --- | --- | --- |
@@ -841,6 +840,7 @@ _⚠️ These 73 apps have reached their tester limit. Try checking back later._
 | 淘宝 | [https://testflight.apple.com/join/TThGL9RX](https://testflight.apple.com/join/TThGL9RX) | N | 2025-12-22 |
 | 熊猫吃短信 | [https://testflight.apple.com/join/qMCQlMiZ](https://testflight.apple.com/join/qMCQlMiZ) | N | 2025-12-22 |
 | 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | N | 2025-12-22 |
+| 爱奇艺 | [https://testflight.apple.com/join/alLbf0ju](https://testflight.apple.com/join/alLbf0ju) | N | 2026-03-02 |
 | 爱阅书香 | [https://testflight.apple.com/join/23FPuktF](https://testflight.apple.com/join/23FPuktF) | N | 2025-12-22 |
 | 番组计划 | [https://testflight.apple.com/join/N0bwYmVR](https://testflight.apple.com/join/N0bwYmVR) | N | 2025-12-22 |
 | 百度网盘 HD | [https://testflight.apple.com/join/A0HM2av9](https://testflight.apple.com/join/A0HM2av9) | N | 2025-12-22 |
