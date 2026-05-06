@@ -69,11 +69,11 @@
     },
     "WHIbsose": {
       "app_name": "Caffeine Utility",
-      "status": "F",
+      "status": "N",
       "tables": [
         "macos"
       ],
-      "last_modify": "2026-04-28"
+      "last_modify": "2026-05-06"
     },
     "Dm6lqUW7": {
       "app_name": "Shapr3D",
@@ -549,11 +549,11 @@
     },
     "Trcbh1o3": {
       "app_name": "Brave",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-05-06"
     },
     "WEwS789J": {
       "app_name": "Budget-Your Money",
@@ -973,11 +973,11 @@
     },
     "gdE4pRzI": {
       "app_name": "Discord",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-06"
     },
     "EOPEVoDA": {
       "app_name": "Documents by Readdle",
@@ -1237,11 +1237,11 @@
     },
     "JdsubPZs": {
       "app_name": "Firefox Beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-26"
+      "last_modify": "2026-05-06"
     },
     "dH8lkFZi": {
       "app_name": "Firefox Focus",
@@ -1381,11 +1381,11 @@
     },
     "bZIZeB4N": {
       "app_name": "Fugl",
-      "status": "Y",
+      "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-02-05"
+      "last_modify": "2026-05-06"
     },
     "HktpUEoB": {
       "app_name": "FullPlayer",
@@ -2125,11 +2125,11 @@
     },
     "eHAKJBtM": {
       "app_name": "Microsoft Office",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-28"
+      "last_modify": "2026-05-06"
     },
     "LtgPLzrQ": {
       "app_name": "Microsoft OneDrive",
@@ -2141,11 +2141,11 @@
     },
     "a9Ef0N3g": {
       "app_name": "Microsoft PowerPoint",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-31"
+      "last_modify": "2026-05-06"
     },
     "yhIhAvjp": {
       "app_name": "Microsoft SwiftKey Keyboard",
@@ -2725,19 +2725,19 @@
     },
     "UE75wprO": {
       "app_name": "PDF Expert: PDF Editor",
-      "status": "Y",
-      "tables": [
-        "ios"
-      ],
-      "last_modify": "2026-05-05"
-    },
-    "6IMUtZ8n": {
-      "app_name": "PDF Viewer Pro by PSPDFKit",
       "status": "N",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-06"
+    },
+    "6IMUtZ8n": {
+      "app_name": "PDF Viewer Pro by PSPDFKit",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-05-06"
     },
     "Sk5N5oJV": {
       "app_name": "Percent App",
@@ -2942,11 +2942,11 @@
     },
     "mwhcPqxJ": {
       "app_name": "Quizlet",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-23"
+      "last_modify": "2026-05-06"
     },
     "rMvVgTFC": {
       "app_name": "R.I.D.E",
@@ -3358,11 +3358,11 @@
     },
     "p7hGbZUR": {
       "app_name": "Snapchat",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-06"
     },
     "nOZ0d7n7": {
       "app_name": "Snapthread",
@@ -3655,11 +3655,11 @@
     },
     "eP0BTwVi": {
       "app_name": "Television Time",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-06"
     },
     "MnuClabg": {
       "app_name": "Termius – SSH client",
@@ -4583,11 +4583,11 @@
     },
     "37azzGPG": {
       "app_name": "Overcast beta",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-01"
+      "last_modify": "2026-05-06"
     },
     "uyGm1uJr": {
       "app_name": "Lock Screen Contact Widgets beta",
@@ -5393,11 +5393,11 @@
     },
     "An0RiOFF": {
       "app_name": "Cash App",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-06"
+      "last_modify": "2026-05-06"
     },
     "rG93mFo8": {
       "app_name": "Clipchamp Dev",
@@ -5425,11 +5425,11 @@
     },
     "4vmNqTE8": {
       "app_name": "Dash Calc",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-04"
+      "last_modify": "2026-05-06"
     },
     "Q37kksaC": {
       "app_name": "DailyTown",
@@ -5585,11 +5585,11 @@
     },
     "hw76phYi": {
       "app_name": "Microsoft Word",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-04-05"
+      "last_modify": "2026-05-06"
     },
     "3lIiz1eZ": {
       "app_name": "Microsoft Excel",
@@ -5953,11 +5953,11 @@
     },
     "TX83Mn7J": {
       "app_name": "知乎",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-03-01"
+      "last_modify": "2026-05-06"
     },
     "0x2bROvq": {
       "app_name": "石头阅读",
@@ -6395,11 +6395,11 @@
     },
     "ew2SUX7n": {
       "app_name": "Eimi: Daily Cards",
-      "status": "Y",
+      "status": "F",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-06"
     },
     "t1xT7SXk": {
       "app_name": "Bonvo.Ski - 3D Ski &amp; Snowboard",
@@ -6541,11 +6541,11 @@
     },
     "MnsYnB0s": {
       "app_name": "TikTok -Global Video Community",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-05-05"
+      "last_modify": "2026-05-06"
     },
     "gFZnVU2t": {
       "app_name": "钱迹记账-无广告自动记账软件 &amp; 预算 &amp; 资产管理",
