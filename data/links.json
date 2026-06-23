@@ -7160,6 +7160,22 @@
         "ios"
       ],
       "last_modify": "2026-06-20"
+    },
+    "XzDHuAUb": {
+      "app_name": "FeltIQ: Bankroll Tracker",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
+    },
+    "u9AdX6nz": {
+      "app_name": "SIMKit",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-23"
     }
   }
 }
