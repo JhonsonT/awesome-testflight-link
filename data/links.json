@@ -7217,6 +7217,22 @@
         "tvos"
       ],
       "last_modify": "2026-06-23"
+    },
+    "vrehhvsY": {
+      "app_name": "WatchAmp for Plex",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-06-25"
+    },
+    "fqDXYaDV": {
+      "app_name": "Home Floorplan",
+      "status": "Y",
+      "tables": [
+        "ipados"
+      ],
+      "last_modify": "2026-06-25"
     }
   }
 }
