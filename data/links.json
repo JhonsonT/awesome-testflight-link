@@ -1093,11 +1093,11 @@
     },
     "C1a3MRG4": {
       "app_name": "Facebook",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-26"
+      "last_modify": "2026-07-10"
     },
     "UqEC1ibq": {
       "app_name": "Facebook Light",
@@ -1445,11 +1445,11 @@
     },
     "NLskzwi5": {
       "app_name": "GitHub",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-10"
     },
     "TR0BJdqU": {
       "app_name": "Gizer",
@@ -3798,12 +3798,12 @@
       "last_modify": "2026-06-18"
     },
     "cRWMcQsr": {
-      "app_name": "Trello — Organize anything!",
+      "app_name": "Trello: Daily Task Tracker",
       "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-07-10"
     },
     "u4DHLMj1": {
       "app_name": "tripmind",
@@ -3867,7 +3867,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2025-12-22"
+      "last_modify": "2026-07-10"
     },
     "3EsotSOl": {
       "app_name": "Twitter",
@@ -5461,7 +5461,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-06-17"
+      "last_modify": "2026-07-10"
     },
     "Uy465Q3m": {
       "app_name": "KeyCalc - Retro Calculator",
@@ -5485,7 +5485,7 @@
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-07"
+      "last_modify": "2026-07-10"
     },
     "VnGZhjsZ": {
       "app_name": "Ketro",
@@ -6209,11 +6209,11 @@
     },
     "TX6YlL2B": {
       "app_name": "迅雷浏览器",
-      "status": "F",
+      "status": "Y",
       "tables": [
         "ios"
       ],
-      "last_modify": "2026-07-09"
+      "last_modify": "2026-07-10"
     },
     "C9b7GypS": {
       "app_name": "高德地图-高德打车,导航公交地铁出行",
