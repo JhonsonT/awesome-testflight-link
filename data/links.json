@@ -7341,6 +7341,32 @@
         "ios"
       ],
       "last_modify": "2026-07-20"
+    },
+    "wqnfUFwe": {
+      "app_name": "Hopbit",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-22"
+    },
+    "t7mNuk5d": {
+      "app_name": "Tempo Tunes: BPM Playlists",
+      "status": "Y",
+      "tables": [
+        "ios"
+      ],
+      "last_modify": "2026-07-22"
+    },
+    "bKeCDTcj": {
+      "app_name": "CubeRoots Ivy",
+      "status": "Y",
+      "tables": [
+        "ios",
+        "ipados"
+      ],
+      "last_modify": "2026-07-22"
     }
   }
 }
